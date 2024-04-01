@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "name": "lessontask-scss",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass": "node-sass" 
+  },
+  "author": "",
+  "license": "ISC"
+}
+
+
